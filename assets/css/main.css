@@ -1,0 +1,4 @@
+.scale-out-center {
+	-webkit-animation: scale-out-center 20s cubic-bezier(0.550, 0.085, 0.680, 0.530) infinite alternate-reverse both;
+	        animation: scale-out-center 20s cubic-bezier(0.550, 0.085, 0.680, 0.530) infinite alternate-reverse both;
+}
